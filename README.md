@@ -1,6 +1,6 @@
 # 👋 Hi There,
 
-Hi, My name is Rizwan Ahmed Kango, from Pakistan. I am a Telecom Engineer turned Data Scientist. I started my career in Data Science or Artificial Intelligence as a Research Assistant in a research lab. I had done some ComputerVision related projects there and learnt a lot. Research Experience was a great one for my career. After that, I collaborated with some international researchers and supervised some academic projects in Pakistan. Currently working as a Data Scientist, the main tasks are related to Predictive Analytics, ETL generation and Generating NLP projects.
+Hi, My name is Rizwan Ahmed Kango, from Pakistan. I am a Telecom Engineer turned Data Scientist. I started my career in Data Science or Artificial Intelligence as a Research Assistant in a research lab. I had done some ComputerVision related projects there and learnt a lot. Research Experience was a great one for my career. After that, I collaborated with some international researchers and supervised some academic projects in Pakistan. Currently working as a Data Scientist, the main tasks are related to Predictive Analytics, ETL generation and Creating NLP projects.
 <!---
 - 👀 I’m interested in Data Science and Computer Vision.
 - 🌱 I’m currently learning ...
